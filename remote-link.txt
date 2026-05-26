@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://invoice-chelsea-bases-foto.trycloudflare.com/vnc.html
+URL       : https://strength-magazine-syntax-architectural.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-25 20:18:25
+Created   : 2026-05-26 21:17:20
 =======================================================
