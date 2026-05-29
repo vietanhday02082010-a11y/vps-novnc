@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://blast-flu-abstracts-karen.trycloudflare.com/vnc.html
+URL       : https://jamie-durable-cottages-ron.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-28 22:10:41
+Created   : 2026-05-29 12:03:57
 =======================================================
