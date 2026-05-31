@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bernard-supervisors-college-occupations.trycloudflare.com/vnc.html
+URL       : https://critics-willing-ahead-verified.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-31 15:07:35
+Created   : 2026-05-31 23:47:44
 =======================================================
