@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://monster-ivory-inner-partners.trycloudflare.com/vnc.html
+URL       : https://plans-undertaken-lakes-microwave.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 10:31:31
+Created   : 2026-06-04 21:18:32
 =======================================================
