@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://committee-discuss-merchandise-gps.trycloudflare.com/vnc.html
+URL       : https://zinc-arise-fighters-hospitals.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 23:45:35
+Created   : 2026-06-07 10:17:10
 =======================================================
