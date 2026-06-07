@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://zinc-arise-fighters-hospitals.trycloudflare.com/vnc.html
+URL       : https://budapest-senator-camps-transcript.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-07 10:17:10
+Created   : 2026-06-07 19:59:49
 =======================================================
