@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://areas-logical-warnings-audit.trycloudflare.com/vnc.html
+URL       : https://writers-pink-century-designs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-09 11:46:47
+Created   : 2026-06-09 21:26:31
 =======================================================
