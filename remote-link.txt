@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://prophet-precipitation-drop-intimate.trycloudflare.com/vnc.html
+URL       : https://kurt-wage-medications-holder.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 13:07:41
+Created   : 2026-06-11 22:22:49
 =======================================================
