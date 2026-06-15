@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://def-wildlife-hwy-supporting.trycloudflare.com/vnc.html
+URL       : https://boring-scheduled-descending-trials.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 20:12:52
+Created   : 2026-06-15 22:20:24
 =======================================================
