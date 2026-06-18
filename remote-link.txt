@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://qui-animation-agree-reservations.trycloudflare.com/vnc.html
+URL       : https://west-less-fri-whom.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 22:02:20
+Created   : 2026-06-18 03:53:42
 =======================================================
