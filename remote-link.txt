@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://west-less-fri-whom.trycloudflare.com/vnc.html
+URL       : https://rely-ideas-wal-get.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 03:53:42
+Created   : 2026-06-18 09:15:27
 =======================================================
