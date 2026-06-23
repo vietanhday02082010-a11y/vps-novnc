@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://software-programs-define-law.trycloudflare.com/vnc.html
+URL       : https://pays-reconstruction-combined-whatever.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-23 12:34:11
+Created   : 2026-06-23 21:45:28
 =======================================================
