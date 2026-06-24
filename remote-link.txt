@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fields-algorithms-erp-certified.trycloudflare.com/vnc.html
+URL       : https://roulette-neighbors-tim-description.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-24 17:05:53
+Created   : 2026-06-24 21:23:54
 =======================================================
