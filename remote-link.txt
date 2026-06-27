@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://many-relatives-folks-thus.trycloudflare.com/vnc.html
+URL       : https://leg-genes-watches-interested.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 11:28:55
+Created   : 2026-06-27 16:06:46
 =======================================================
