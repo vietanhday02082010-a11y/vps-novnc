@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ins-com-demand-supplements.trycloudflare.com/vnc.html
+URL       : https://nick-conducting-voltage-simply.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 14:05:14
+Created   : 2026-06-29 17:38:30
 =======================================================
