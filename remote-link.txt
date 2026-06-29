@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nick-conducting-voltage-simply.trycloudflare.com/vnc.html
+URL       : https://dramatically-simply-projector-native.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 17:38:30
+Created   : 2026-06-29 21:28:37
 =======================================================
