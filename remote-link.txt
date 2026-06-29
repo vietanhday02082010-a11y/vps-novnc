@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://implies-showers-citation-aspect.trycloudflare.com/vnc.html
+URL       : https://patients-workforce-pro-achieving.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 03:47:21
+Created   : 2026-06-29 09:27:35
 =======================================================
