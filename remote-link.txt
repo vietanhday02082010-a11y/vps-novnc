@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://video-self-infections-entertaining.trycloudflare.com/vnc.html
+URL       : https://demand-maple-location-aside.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 21:29:51
+Created   : 2026-07-02 03:30:17
 =======================================================
