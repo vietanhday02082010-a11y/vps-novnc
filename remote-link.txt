@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://obtain-orders-benz-bend.trycloudflare.com/vnc.html
+URL       : https://industry-publishers-welding-ntsc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 16:26:07
+Created   : 2026-07-03 21:06:57
 =======================================================
