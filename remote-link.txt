@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://surprise-enterprises-guide-example.trycloudflare.com/vnc.html
+URL       : https://kinda-buildings-converter-stan.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 11:28:13
+Created   : 2026-07-04 16:03:31
 =======================================================
