@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://warm-instructors-indirect-robust.trycloudflare.com/vnc.html
+URL       : https://longer-signals-seeker-details.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 02:58:54
+Created   : 2026-07-05 07:58:22
 =======================================================
