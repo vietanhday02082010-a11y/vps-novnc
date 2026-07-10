@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://authentication-robot-urge-imports.trycloudflare.com/vnc.html
+URL       : https://appendix-arrangement-asset-fantastic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-10 08:24:09
+Created   : 2026-07-10 12:26:44
 =======================================================
