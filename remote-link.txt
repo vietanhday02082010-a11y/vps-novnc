@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bureau-north-found-stretch.trycloudflare.com/vnc.html
+URL       : https://aid-secretary-assure-evening.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-13 12:33:09
+Created   : 2026-07-13 17:14:23
 =======================================================
