@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://guidelines-paso-functional-signal.trycloudflare.com/vnc.html
+URL       : https://architects-directed-cup-theater.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-15 02:23:23
+Created   : 2026-07-15 07:16:00
 =======================================================
