@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sic-cheaper-producing-nice.trycloudflare.com/vnc.html
+URL       : https://technician-picked-dam-essentials.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-16 16:18:38
+Created   : 2026-07-16 20:58:13
 =======================================================
