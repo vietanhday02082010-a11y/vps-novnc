@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ended-best-machinery-lewis.trycloudflare.com/vnc.html
+URL       : https://cool-expansys-postcard-engage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-21 07:34:43
+Created   : 2026-07-21 11:49:11
 =======================================================
