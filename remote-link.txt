@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intro-licenses-registration-legends.trycloudflare.com/vnc.html
+URL       : https://tariff-three-charter-enjoying.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 16:02:41
+Created   : 2026-07-26 20:58:42
 =======================================================
