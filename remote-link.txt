@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hats-clock-leasing-latitude.trycloudflare.com/vnc.html
+URL       : https://hoped-singer-carried-ride.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 11:09:00
+Created   : 2026-08-10 16:01:04
 =======================================================
