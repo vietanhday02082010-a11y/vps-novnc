@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://soup-factory-returned-vote.trycloudflare.com/vnc.html
+URL       : https://though-opening-quit-evaluation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 01:09:22
+Created   : 2026-08-15 05:24:30
 =======================================================
