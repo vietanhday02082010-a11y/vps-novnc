@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://electronic-classes-locking-clone.trycloudflare.com/vnc.html
+URL       : https://crimes-systems-pencil-dual.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 15:20:29
+Created   : 2026-08-15 20:22:28
 =======================================================
