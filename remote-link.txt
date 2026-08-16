@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://accomplished-fought-independent-dealt.trycloudflare.com/vnc.html
+URL       : https://computation-initiative-hong-mill.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 15:21:44
+Created   : 2026-08-16 20:26:46
 =======================================================
