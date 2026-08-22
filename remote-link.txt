@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://breakdown-willing-frankfurt-certification.trycloudflare.com/vnc.html
+URL       : https://front-epic-trailer-milan.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 05:27:07
+Created   : 2026-08-22 10:23:08
 =======================================================
