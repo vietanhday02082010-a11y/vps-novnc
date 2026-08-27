@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proudly-novelty-newark-edwards.trycloudflare.com/vnc.html
+URL       : https://regard-sir-small-update.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 07:24:22
+Created   : 2026-08-27 20:11:18
 =======================================================
