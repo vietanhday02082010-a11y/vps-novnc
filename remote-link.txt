@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://preference-depends-geek-directly.trycloudflare.com/vnc.html
+URL       : https://insulin-heating-venice-those.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 14:03:00
+Created   : 2026-09-04 18:08:47
 =======================================================
