@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://farming-park-distances-advocate.trycloudflare.com/vnc.html
+URL       : https://well-monitors-joel-greensboro.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 13:59:28
+Created   : 2026-09-20 17:59:51
 =======================================================
