@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hamilton-euros-commission-duncan.trycloudflare.com/vnc.html
+URL       : https://controlled-milwaukee-creative-invention.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-30 19:52:46
+Created   : 2026-09-30 23:31:30
 =======================================================
