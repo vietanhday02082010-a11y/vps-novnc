@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://method-interested-headlines-drop.trycloudflare.com/vnc.html
+URL       : https://hood-wed-bradley-posing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 03:18:32
+Created   : 2026-10-15 09:39:12
 =======================================================
