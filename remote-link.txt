@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://continuously-retrieved-signal-apparatus.trycloudflare.com/vnc.html
+URL       : https://heritage-lid-pastor-curves.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 03:15:07
+Created   : 2026-10-16 09:31:55
 =======================================================
