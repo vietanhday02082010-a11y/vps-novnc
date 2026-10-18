@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://warm-allergy-significant-catalogs.trycloudflare.com/vnc.html
+URL       : https://beast-iso-borough-geek.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:21:54
+Created   : 2026-10-18 13:48:39
 =======================================================
