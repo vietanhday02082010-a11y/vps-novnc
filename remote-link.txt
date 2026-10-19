@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://opportunity-phil-budget-immunology.trycloudflare.com/vnc.html
+URL       : https://shorter-potentially-accidents-efficient.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 03:21:32
+Created   : 2026-10-19 10:32:39
 =======================================================
