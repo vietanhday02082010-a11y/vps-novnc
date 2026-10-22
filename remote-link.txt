@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://specs-fever-cingular-directors.trycloudflare.com/vnc.html
+URL       : https://counted-departure-corp-polymer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 23:04:34
+Created   : 2026-10-22 03:24:40
 =======================================================
