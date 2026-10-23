@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sensors-artificial-iso-seniors.trycloudflare.com/vnc.html
+URL       : https://old-ran-electro-reported.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 14:43:28
+Created   : 2026-10-23 18:57:16
 =======================================================
