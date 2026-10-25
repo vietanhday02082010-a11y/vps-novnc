@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://debate-exceptional-islands-unlimited.trycloudflare.com/vnc.html
+URL       : https://loads-surplus-oasis-monte.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 14:08:36
+Created   : 2026-10-25 18:10:22
 =======================================================
