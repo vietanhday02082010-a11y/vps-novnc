@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://believed-instrument-mathematics-fda.trycloudflare.com/vnc.html
+URL       : https://debate-exceptional-islands-unlimited.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 09:36:39
+Created   : 2026-10-25 14:08:36
 =======================================================
