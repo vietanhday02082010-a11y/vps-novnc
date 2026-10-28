@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://actress-blogs-rack-pixel.trycloudflare.com/vnc.html
+URL       : https://advisory-protecting-stats-societies.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 11:00:17
+Created   : 2026-10-28 20:06:05
 =======================================================
