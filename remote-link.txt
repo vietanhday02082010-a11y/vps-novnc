@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://approaches-seeker-automatic-cute.trycloudflare.com/vnc.html
+URL       : https://raw-invite-aluminum-nam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 04:31:02
+Created   : 2026-11-01 11:43:15
 =======================================================
