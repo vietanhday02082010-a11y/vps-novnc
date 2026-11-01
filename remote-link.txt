@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://raw-invite-aluminum-nam.trycloudflare.com/vnc.html
+URL       : https://mining-hosts-observe-disable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 11:43:15
+Created   : 2026-11-01 19:24:19
 =======================================================
