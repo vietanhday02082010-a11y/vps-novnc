@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://idol-flame-absolutely-sake.trycloudflare.com/vnc.html
+URL       : https://empty-vary-antique-memories.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 05:13:33
+Created   : 2026-11-05 17:53:17
 =======================================================
